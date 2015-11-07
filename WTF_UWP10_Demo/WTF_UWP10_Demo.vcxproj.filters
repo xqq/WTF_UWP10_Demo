@@ -59,5 +59,11 @@
     <Xml Include="Assets\1055660.xml">
       <Filter>资产</Filter>
     </Xml>
+    <Xml Include="Assets\4672601.xml">
+      <Filter>资产</Filter>
+    </Xml>
+    <Xml Include="Assets\529622.xml">
+      <Filter>资产</Filter>
+    </Xml>
   </ItemGroup>
 </Project>

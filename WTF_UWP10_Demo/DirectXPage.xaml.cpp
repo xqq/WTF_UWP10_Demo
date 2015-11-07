@@ -100,7 +100,7 @@ DirectXPage::DirectXPage():
         WTF_DANMAKU_TYPE_BOTTOM_VISIBLE);
 
     std::wstring path = Windows::ApplicationModel::Package::Current->InstalledLocation->Path->Data();
-    path += L"\\Assets\\1055660.xml";
+    path += L"\\Assets\\529622.xml";
 
     WTF_LoadBilibiliFileW(wtf, path.c_str());
 

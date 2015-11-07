@@ -266,6 +266,8 @@
   </ItemGroup>
   <ItemGroup>
     <Xml Include="Assets\1055660.xml" />
+    <Xml Include="Assets\4672601.xml" />
+    <Xml Include="Assets\529622.xml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\libwtfdanmaku\libwtfdanmaku.vcxproj">
